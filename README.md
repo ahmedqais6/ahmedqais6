@@ -7,23 +7,23 @@
   >
     <img
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_ticket.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px; height: 100px;" />
+    alt=raiya style="margin-bottom: 5px; height: 100px;" />
   </a>
   <a href="https://orderii.co/" target="_blank" rel="noopener noreferrer">
     <img
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/orderii.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px; height: 100px;" />
+    alt=orderii style="margin-bottom: 5px; height: 100px;" />
   </a>
 
   <a href="https://sachach.org/" target="_blank">
     <img
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/sachach.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px; height: 100px;" />
+    alt=sachach style="margin-bottom: 5px; height: 100px;" />
   </a>
   <a href="https://etar.online/" target="_blank">
     <img
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/etar.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px; height: 100px;" />
+    alt=etar style="margin-bottom: 5px; height: 100px;" />
   </a>
 </div>
 
