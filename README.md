@@ -31,7 +31,7 @@
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/etar.png?&style=for-the-badge&logo=github&logoColor=white
     alt=etar style="margin-bottom: 5px; height: 100px;" />
   </a>
-      <a href="https://etar.online/" target="_blank">
+      <a href="https://raiyagroup.com/" target="_blank">
     <img
     src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_garages.png?&style=for-the-badge&logo=github&logoColor=white
     alt=grages style="margin-bottom: 5px; height: 100px;" />
