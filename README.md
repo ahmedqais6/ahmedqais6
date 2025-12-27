@@ -30,7 +30,7 @@ Building scalable products for Iraq & MENA
 ## 🛠 Tech Stack
 
 ```text
-Mobile     → Flutter (iOS & Android)
+Mobile    → Flutter (iOS & Android)
 Backend   → Node.js · ASP.NET · REST · Microservices
 Database  → MySQL · PostgreSQL
 Cloud     → AWS · DigitalOcean · Linux
