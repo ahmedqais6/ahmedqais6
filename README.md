@@ -8,12 +8,6 @@ Building scalable products for Iraq & MENA
   <a href="https://linkedin.com/in/ahmedqais6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Qais-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ahmedqais66" target="_blank">
-    <img src="https://img.shields.io/badge/X-@ahmedqais66-000000?style=flat&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/11250591/ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Profile-F48024?style=flat&logo=stackoverflow&logoColor=white"/>
-  </a>
 </p>
 
 ---
