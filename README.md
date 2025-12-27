@@ -1,65 +1,66 @@
-## My Projects
+<h1 align="center">Hi, I'm Ahmed Qais 👋</h1>
+<h3 align="center">
+Co-Founder & CTO @ Orderii LLC · CEO @ OTECH LLC<br/>
+Building scalable products for Iraq & MENA
+</h3>
 
-<div align="left">
-    <a
-    href="https://pegasusiraq.com/"
-    target="_blank" >
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/pegasus_cargo_iraq.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=pegasus style="margin-bottom: 5px; height: 100px;" />
-  </a>
-  <a
-    href="https://play.google.com/store/apps/details?id=com.flutter.raiya_ticketing_mobile_app"
-    target="_blank" >
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_ticket.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=raiya style="margin-bottom: 5px; height: 100px;" />
-  </a>
-  <a href="https://orderii.co/" target="_blank" rel="noopener noreferrer">
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/orderii.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=orderii style="margin-bottom: 5px; height: 100px;" />
-  </a>
-
-  <a href="https://sachach.org/" target="_blank">
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/sachach.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=sachach style="margin-bottom: 5px; height: 100px;" />
-  </a>
-  <a href="https://etar.online/" target="_blank">
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/etar.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=etar style="margin-bottom: 5px; height: 100px;" />
-  </a>
-      <a href="https://raiyagroup.com/" target="_blank">
-    <img
-    src=https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_garages.png?&style=for-the-badge&logo=github&logoColor=white
-    alt=grages style="margin-bottom: 5px; height: 100px;" />
-  </a>
-</div>
-
-## Connect with me
-
-<div align="left">
+<p align="center">
   <a href="https://linkedin.com/in/ahmedqais6" target="_blank">
-    <img
-    src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-    alt=linkedin style="margin-bottom: 0px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Qais-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ahmedqais6" target="_blank">
-    <img
-    src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white
-    alt=facebook style="margin-bottom: 0px;" />
-  </a>
-    <a href="https://twitter.com/ahmedqais66" target="_blank">
-    <img
-    src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-    alt=twitter style="margin-bottom: 0px;" />
+  <a href="https://twitter.com/ahmedqais66" target="_blank">
+    <img src="https://img.shields.io/badge/X-@ahmedqais66-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/11250591/ahmed" target="_blank">
-    <img
-    src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
-    alt=stackoverflow style="margin-bottom: 0px;" />
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-F48024?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
-</div>
-<br />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🏗️ Founder-level engineer focused on **mobile, backend & scalable systems**
+- 🇮🇶 Building products for **Iraq’s fintech, logistics, and digital services**
+- 📱 Flutter · 🧠 AI · ⚙️ Backend · ☁️ Cloud · 🔐 Security
+- 🤝 Worked with **banks, NGOs, startups, and government entities**
+
+---
+
+## 🧩 Selected Projects
+
+<p align="center">
+  <a href="https://orderii.co/" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/orderii.png" height="90"/>
+  </a>
+  <a href="https://pegasusiraq.com/" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/pegasus_cargo_iraq.png" height="90"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.flutter.raiya_ticketing_mobile_app" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_ticket.png" height="90"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raiyagroup.com/" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_garages.png" height="90"/>
+  </a>
+  <a href="https://etar.online/" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/etar.png" height="90"/>
+  </a>
+  <a href="https://sachach.org/" target="_blank">
+    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/sachach.png" height="90"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+```text
+Mobile     → Flutter (iOS & Android)
+Backend   → Node.js · ASP.NET · REST · Microservices
+Database  → MySQL · PostgreSQL
+Cloud     → AWS · DigitalOcean · Linux
+DevOps    → CI/CD · GitHub Actions · Docker
+Security  → App Hardening · API Security · Compliance
