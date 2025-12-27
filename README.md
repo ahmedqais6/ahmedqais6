@@ -27,34 +27,6 @@ Building scalable products for Iraq & MENA
 
 ---
 
-## 🧩 Selected Projects
-
-<p align="center">
-  <a href="https://orderii.co/" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/orderii.png" height="90"/>
-  </a>
-  <a href="https://pegasusiraq.com/" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/pegasus_cargo_iraq.png" height="90"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.flutter.raiya_ticketing_mobile_app" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_ticket.png" height="90"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://raiyagroup.com/" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/raiya_garages.png" height="90"/>
-  </a>
-  <a href="https://etar.online/" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/etar.png" height="90"/>
-  </a>
-  <a href="https://sachach.org/" target="_blank">
-    <img src="https://github.com/ahmedqais6/ahmedqais6/blob/master/assets/sachach.png" height="90"/>
-  </a>
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ```text
